@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yoma</h1>
-<h3 align="center">An ANU student learning Java and software frameworks and looking for junior job in SDE</h3>
+<h3 align="center">An ANU student developing into a capable full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuma-tietiedaxiang&label=Profile%20views&color=0e75b6&style=flat" alt="yuma-tietiedaxiang" /> </p>
 
-- 🌱 I’m currently learning **String Boot, JavaScript**
 
-- 📫 How to reach me **cn221071hz@gmail.com**
+- 📫 How to reach me **yoma.ma0405dev@gmail.com**
 
-- ⚡ Fun fact **I'm a Kendo person**
+- ⚡ Fun fact **I'm an Iaido person**
 
 
 
